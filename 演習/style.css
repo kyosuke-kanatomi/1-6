@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual{
+  background-image: url(img/mv.jpg);
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  background-position: bottom;
+}
+.headline{
+  padding: 20px;
+}
+.box{
+margin: 50px auto;
+width: 840px;
+}
+.school1{
+  padding-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  margin-bottom: 30px;
+}
+.school2{
+  padding-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  margin-bottom: 30px;
+}
+.school3{
+  padding-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  margin-bottom: 30px;
+}
+.school4{
+  padding-bottom: 30px;
+  border-bottom: 1px solid #d1d1d1;
+  margin-bottom: 30px;
+}
